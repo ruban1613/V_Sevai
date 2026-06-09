@@ -1,0 +1,6 @@
+{
+  "name": "Vettri Sevai Bot",
+  "description": "Citizen enquiry portal for the administration of CM C. Joseph Vijay (2026), featuring official service guides and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
